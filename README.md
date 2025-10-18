@@ -12,8 +12,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=veen0o21.veen0o21&"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=veen0o21.veen0o21&left_color=black"  />
 </div>
 
 ###
@@ -24,26 +24,28 @@
 
 <div align="left">
   <a href=" https://www.linkedin.com/in/veen0o21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discord.gg/SvRhsefG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="32" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@Veen0o21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="32" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="32" alt="medium logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
   <a href="https://tryhackme.com/p/Veen0o21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="32" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="30" alt="tryhackme logo"  />
   </a>
 </div>
 
 ###
+
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=veen0o21&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=50&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<p align="left"></p>
 
-
+###
