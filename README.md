@@ -39,8 +39,11 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/veen0o21/veen0o21/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=veen0o21&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=50&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
+
 
 
