@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">👋 Hello there, I'm Veen0o21</h2>
+<h2 align="center">Hello, I'm Maher Sobieh</h2>
 
 ###
 
@@ -17,8 +17,32 @@
 
 ###
 
-<h5 align="left">I live in the intersection of curiosity and chaos — hunting bugs, cracking challenges, and reversing binaries.  <br>Main focus: Web Pentesting, Vulnerability Assessment, Reverse Engineering, and Cryptography.  <br>I solve CTFs to sharpen skills, write clear writeups, and share tools & PoCs in my repositories.  <br>Want to collab or share a challenge? Open an issue or drop a message — let's break it and fix it. ⚡  <br><br>“Hack to learn, not to harm”</h5>
+<h5 align="left">
 
+Active Bug Hunter on HackerOne, YesWeHack, and Bugcrowd.
+CTF Player @N!ghtM4re
+
+### **`Achievements`**
+<pre>
+HTB machines    => +15 Pwned Machines
+HTB challenges  => - challenges completed
+TryHackMe       => 148 completed rooms
+Cryptohack      => 2180 points
+CTFs challenges => +70 challenges conquered
+</pre>
+> *A small achievement, but I’m very proud of it*
+> 
+
+### **`Focus Areas`**
+
+**Web Exploitation • Cryptography • Binary Exploitation (PWN)**
+
+### **`What I’m Doing Now`**
+
+Currently studying **CWES** (Certified Web Exploitation Specialist) to strengthen my advanced web exploitation skills.
+Actively participating in CTF competitions with my team **N!ghtM4re** .
+
+### **`Explore My Work`**
 ###
 
 <div align="left">
