@@ -4,7 +4,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.postimg.cc/Y9NXBbWW/Veen0o21.png"  />
 
 ###
 
