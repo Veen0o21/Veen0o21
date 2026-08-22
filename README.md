@@ -24,11 +24,11 @@ CTF Player @N!ghtM4re
 
 ### **`Achievements`**
 <pre>
-HTB machines    => +15 Pwned Machines
-HTB challenges  => - challenges completed
+HTB machines    => +30 Pwned Machines
+HTB challenges  => +70 challenges completed
 TryHackMe       => 148 completed rooms
 Cryptohack      => 2180 points
-CTFs challenges => +70 challenges conquered
+CTFs challenges => +150 challenges conquered
 </pre>
 > *A small achievement, but I’m very proud of it*
 > 
